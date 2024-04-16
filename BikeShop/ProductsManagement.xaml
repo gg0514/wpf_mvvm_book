@@ -7,7 +7,8 @@
       mc:Ignorable="d"
       d:DesignHeight="328.286"
       d:DesignWidth="454.286"
-      Title="ProductsManagement">
+      Title="ProductsManagement"
+      Background="{StaticResource background}">
 
     <Grid>
         <TextBox x:Name="textBox"
